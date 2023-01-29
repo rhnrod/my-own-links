@@ -12,7 +12,7 @@ const magicArr = [
     "🫖", "🥤", "🧋", "🧉",
     "🎈", "🕹️", "🧶", "📚"
 ];
-const mageArr = ["👨‍💻", "🥷", "🧙‍♂️"];
+const mageArr = ["👨‍💻","👨‍💻","👨‍💻","👨‍💻","👨‍💻","👨‍💻","👨‍💻","👨‍💻", "🥷", "🧙‍♂️"];
 
 window.addEventListener('load', function(){
     mage.innerText = mageArr[Math.floor(Math.random() * mageArr.length)];
